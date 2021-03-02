@@ -1,0 +1,20 @@
+{
+  "compilerOption": {
+    "target": "src",
+    "jsx": "react",
+    "path": {
+      "components:/*": [
+        "./components/*"
+      ],
+      "containers:/*": [
+        "./components/*"
+      ],
+      "assets:/*": [
+        "./components/*"
+      ],
+      "commons:/*": [
+        "./components/*"
+      ]
+    }
+  }
+}
